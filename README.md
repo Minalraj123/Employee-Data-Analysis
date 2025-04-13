@@ -1,6 +1,6 @@
 # Employee-Data-Analysis
-📊 Employee Data Analysis Using Tableau
-✅ Project Objective
+# 📊 Employee Data Analysis Using Tableau
+**✅ Project Objective**
 To analyze employee-related data to gain insights into workforce demographics, performance, retention, and HR metrics, helping management make data-driven decisions.
 
 📁 Dataset Used
