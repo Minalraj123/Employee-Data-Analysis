@@ -1,12 +1,12 @@
-# Employee-Data-Analysis
+
 # 📊 Employee Data Analysis Using Tableau
 **✅ Project Objective**
 To analyze employee-related data to gain insights into workforce demographics, performance, retention, and HR metrics, helping management make data-driven decisions.
 
-📁 Dataset Used
+**📁 Dataset Used**
 Source: (e.g., Kaggle, company HR system, mock data)
 
-Fields Included:
+# Fields Included:
 
 Employee ID, Name, Department, Job Role
 
@@ -27,7 +27,7 @@ Excel / CSV – data source
 
 (Optional) Python / Pandas – for preprocessing
 
-🧹 Data Cleaning & Preparation
+**🧹 Data Cleaning & Preparation**
 Handled missing values
 
 Standardized department/job role names
@@ -36,7 +36,7 @@ Derived new columns (e.g., Years Since Last Promotion, Age Group)
 
 Encoded categorical variables if preprocessed in Python
 
-📈 Key Dashboards Created
+**📈 Key Dashboards Created**
 Employee Demographics
 
 Gender & Age Distribution
@@ -45,7 +45,7 @@ Department-wise Headcount
 
 Education & Job Role Breakdown
 
-Attrition Analysis
+**Attrition Analysis**
 
 Attrition Rate by Department, Age, and Gender
 
@@ -67,21 +67,21 @@ Promotions & Transfers
 
 Work-Life Balance Ratings
 
-📌 Key Insights
+**📌 Key Insights**
 High attrition in [e.g., Sales] department linked to long overtime hours.
 
 Most promotions occur after 3+ years with the company.
 
 Employees with better work-life balance have higher retention.
 
-📤 Outcome
+**📤 Outcome**
 Shared insights with HR for retention strategies
 
 Recommended balanced workload and training improvements
 
 Enabled data-driven budgeting for bonuses and promotions
 
-📷 Screenshots (Optional)
+**📷 Screenshots (Optional)**
 Include snapshots of your dashboards here
 
 
